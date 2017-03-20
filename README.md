@@ -18,8 +18,8 @@ Do you want your music in the cloud? Then before, you have to check the tag info
 - Auto enumerate the selected songs. In most cases, the songs have not the track number. With this feature, you can eg set the sequence numbers to all the songs on an album.
 
 ## Images
-![Imagen 1](/1-3.png)
-![Imagen 1](/1.png)
+![Imagen 1](/images/1-3.png)
+![Imagen 2](/images/1.png)
 
 ## Download
 The sources and binaries cam be download from: https://sourceforge.net/projects/simpletag/
