@@ -23,3 +23,7 @@ Do you want your music in the cloud? Then before, you have to check the tag info
 
 ## Download
 The sources and binaries cam be download from: https://sourceforge.net/projects/simpletag/
+
+## Twitter account
+- Keep up to date on announcements and more by following SimpleTag on Twitter, [@SimpleTAG_GUI](https://twitter.com/simpletag_gui).
+- Follow the author Rodrigo on Twitter, [@rodrigovillamil](https://twitter.com/rodrigovillamil)
